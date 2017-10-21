@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Francois+One');
+h1{
+    text-align: center;
+    color: black;}
+    
+#nav{
+    background-color: yellow;
+    
+   
+}
+    
+h2{
+    font-size: 30pt;
+    font-family: 'Francois One', sans-serif;
+    border: thick solid black;
+    margin: 5px;
+    padding:10px; color: 128 225 22;
+}  
+    
+#what{
+    background-color:rgba(128,170,22,0.3); 
+}    
+    
+#nav a:link{
+    color:black;
+}
+#nav a: visited {
+    color: purple;
+}
+#nav a: hover {
+    color: red;
+}
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
+}
+    
+h2{
+    text-align: center;
+    color: red;
+    }
